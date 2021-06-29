@@ -6,9 +6,9 @@ import "./styles.css";
 var business = ["ReWork", "Zero to One", "MBA in a Day"];
 
 var genreDictionary = {
-  Fiction: ["Harry Potter Series", "Wimpy Kid"],
+  Fiction: ["Harry Potter Series", "Brave New World"],
   Business: business,
-  JavaScript: ["Harry Potter 3", "my book 3"]
+  JavaScript: ["Elequent Javasricpt", "You Don't know JS"]
 };
 var books = [];
 
